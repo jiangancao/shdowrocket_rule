@@ -4,19 +4,14 @@
 🇺🇸Buffalo = snell, 192.210.233.115, 8443, psk=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, version=4, tfo=true,shadow-tls-password=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
 
 🇺🇸SJC (Cloudsilk) = snell, 37.123.192.212, 18646, psk=1Vcxlxu249Kfh5xN, version=4
-🇭🇰 Aper:Basic-6 🅂 = snell, 2406:4440:0:106::15:a, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
-🇭🇰 Aper 🅂 = snell, 209.146.104.24, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
+🇭🇰 Aper:Basic 🅂  v6 = snell, 2406:4440:0:106::15:a, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
+🇭🇰 Aper 🅂 v6 = snell, 209.146.104.24, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
 🇭🇰 CloudSilk-HK = snell, 37.123.196.21, 36415, psk=KnEtPK9uA0VGcfL5OubXHqdgrg7hf3k, version=4
 
 //@我们是夜晚分享
 🇭🇰YxVM = snell, 178.173.238.137, 35632, psk=tDN8Rms6EigvxtGI, version=4, reuse=true
 
 //24.6.1
-//
-
-//24.6.3
-//Aberdeen@SIN
-🇳🇱AMS (Oracle Cloud) = snell, 158.101.199.54, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 
 //24.6.7
 //我们是夜晚

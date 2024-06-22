@@ -13,7 +13,6 @@
 
 //24.6.1
 //
-MY snell = snell, 157.254.53.161, 2345, psk=3KKjRdG49YceDNOV, obfs=off, version=4, tfo=true
 
 //24.6.3
 //Aberdeen@SIN
@@ -23,27 +22,15 @@ MY snell = snell, 157.254.53.161, 2345, psk=3KKjRdG49YceDNOV, obfs=off, version=
 //我们是夜晚
 🇭🇰 YxVM  2[N] = snell, 46.3.104.22, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6DhE, obfs=http, version=4, reuse=true, block-quic=on
 
-//Moziku
+//Moziku ipv6
 🇭🇰香港GCP-HK v6 = snell, 2600:1900:41a1:8cd::, 2565, psk=088945hhh, version=4, tfo=true
 🇯🇵GCP- JP v6 = snell, 2600:1900:4051:2bb::, 2565, psk=088945hhh, version=4, tfo=true
 
 //Luca丨熬夜版
 🇸🇬 Eons [S] = snell, 38.150.8.110, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
 
-//24.6.8
-SNELL = snell, 185.218.7.206, 2345, psk=UAyJRs09T34IPgjx, version=4, shadow-tls-password=UAyJRs09T34IPgjx, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
-
 //书生
 🇬🇧 United Kingdom = snell, 18.171.57.29, 2345, psk=LRtHzMQKAZzqdpl6, obfs=http, obfs-host=icloud.com, version=4, tfo=true, ip-version=v4-only
-
-//24.6.9
-//Alan.
-🇯🇵 ᴅᴍɪᴛ = snell, 154.12.191.40, 9956, psk=yuDfbxpbvdVHABue, obfs=http, version=4, reuse=true, tfo=true
-
-//24.6.11
-//小一
-🇺🇸 PIT [snell]  = snell, 74.118.138.135, 65530, psk=oKObPL9BuHcU2c5c, obfs=http, obfs-host=dm.toutiao.com, version=4, reuse=true, tfo=true
-🇺🇸 PIT [hysteria2] =hysteria2,74.118.138.135,65531,password=MVlWnwyr9vEOK8hL,sni=www.bing.com,skip-cert-verify=true,tfo=true,download-bandwidth=200,ecn=true
 
 //24.6.13
 //🅴🅲🄱🄾🅃 14:06 PM

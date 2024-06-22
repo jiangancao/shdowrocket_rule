@@ -42,5 +42,6 @@ CloudSilk-HK = snell, 37.123.196.21, 36415, psk=KnEtPK9uA0VGcfL5OubXHqdgrg7hf3k,
 🇺🇸 美国 IEPL  1=ss,shdata1.fc-smartcloud.xyz,10004,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
 
 //@ggzy
-ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
-ᴅᴇ-ꜱᴀʟᴛʏꜰɪꜱʜ ᴄɴ = snell, 31.25.88.7, 14232, psk=3oEcBDSR1bEHvz8k, version=4, reuse=true, tfo=true
+🇺🇸 ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
+🇩🇪 ᴅᴇ-ꜱᴀʟᴛʏꜰɪꜱʜ ᴄɴ = snell, 31.25.88.7, 14232, psk=3oEcBDSR1bEHvz8k, version=4, reuse=true, tfo=true
+🇭🇰 ʜᴋ-ʏxᴠᴍ = snell, 46.3.104.218, 12323, psk=xpQkim95rFQH9tfX, version=4, reuse=true, tfo=true

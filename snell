@@ -57,3 +57,7 @@
 🇸🇬 新加坡 IEPL  1=ss,gzdata1.fc-smartcloud.xyz,10003,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
 🇺🇸 美国 IEPL  1=ss,shdata1.fc-smartcloud.xyz,10004,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
 
+//24.6.22
+//misaka | misaka.li
+🇭🇰 RFC = snell, 199.15.79.4, 43904, psk = Q1jqzqeivV8hYkBy4goQ, version = 4, reuse = true, tfo = true
+🇭🇰 RFC = snell, 199.15.77.146, 52337, psk = Cj1uU212R8QMgc5Gf0K3, version = 4, reuse = true, tfo = true

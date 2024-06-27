@@ -76,3 +76,7 @@
 //24.6.26
 //shaw
 yxvm Snell = snell, 46.3.96.140, 2345, psk=Do0yPpLlJIgrEFWx, obfs=http, obfs-host=www.bing.com, version=4, reuse=true, ip-version=v4-only
+
+//24.6.27
+//𝓛𝓲𝓷𝓰𝓚𝓮𝓠𝓲𝓷𝓰
+🇭🇰 Snell RFC HK = snell, 199.15.79.24, 7842, psk=bkz5MfBJ3j5dvirv, version=4, reuse=true, tfo=true

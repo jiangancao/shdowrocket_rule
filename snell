@@ -84,3 +84,9 @@ yxvm Snell = snell, 46.3.96.140, 2345, psk=Do0yPpLlJIgrEFWx, obfs=http, obfs-hos
 //24.6.28
 //Shaw
 🇸🇬 Yxvm SG = snell, 46.3.96.140, 47563, psk=kzfXUQqujpQEKZxR, obfs=http, obfs-host=www.bing.com, version=4, tfo=true, ip-version=v4-only
+
+//╿αῃ𝘾𝗲📱
+🇯🇵 JP-Wagon = snell, 178.157.57.78, 23716, psk=fIzCyXdpRnmJLuGR, obfs=http, version=4, reuse=true
+
+//Shaw🤪
+🇭🇰 HKG lite = snell, 157.254.32.41, 47533, psk=o9EtbysVGKdJba02, obfs=http, obfs-host=www.bing.com, version=4, tfo=true, ip-version=v4-only

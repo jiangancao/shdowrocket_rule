@@ -94,3 +94,10 @@ YXVM = snell, 46.3.106.32, 39708, psk=ACD1t9dDBynxaXGlvtli, version=4, reuse=tru
 🇭🇰 Sharon [N] = snell, 157.254.53.17, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
 🇯🇵 Sharon [N] = snell, 157.254.198.137, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
 🇸🇬 Sharon [N] = snell, 188.64.108.81, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
+
+//mieq
+🇭🇰 CloudSilk-HK = snell, 37.123.196.21, 36415, psk=KnEtPK9uA0VGcfL5OubXHqdgrg7hf3k, version=4
+
+//𝙑𝙤𝙘𝙧𝙭😖
+🇭🇰 Sharon = snell, 157.254.52.18, 24382, psk=Ji3TUQnNJBiCauuOFr8gxA==, version=4
+🇯🇵 Sharon = snell, 157.254.198.165, 24382, psk=o3QLRLZWaDzR8ds9XGJt5A==, version=4

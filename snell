@@ -89,3 +89,8 @@ YXVM = snell, 46.3.106.32, 39708, psk=ACD1t9dDBynxaXGlvtli, version=4, reuse=tru
 
 //Shaw🤪
 🇭🇰 HKG lite = snell, 157.254.32.41, 47533, psk=o9EtbysVGKdJba02, obfs=http, obfs-host=www.bing.com, version=4, tfo=true, ip-version=v4-only
+
+//我们是夜晚
+🇭🇰 Sharon [N] = snell, 157.254.53.17, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
+🇯🇵 Sharon [N] = snell, 157.254.198.137, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
+🇸🇬 Sharon [N] = snell, 188.64.108.81, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on

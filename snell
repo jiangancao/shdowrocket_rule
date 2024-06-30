@@ -101,3 +101,15 @@ YXVM = snell, 46.3.106.32, 39708, psk=ACD1t9dDBynxaXGlvtli, version=4, reuse=tru
 //𝙑𝙤𝙘𝙧𝙭😖
 🇭🇰 Sharon = snell, 157.254.52.18, 24382, psk=Ji3TUQnNJBiCauuOFr8gxA==, version=4
 🇯🇵 Sharon = snell, 157.254.198.165, 24382, psk=o3QLRLZWaDzR8ds9XGJt5A==, version=4
+
+//24.6.29
+//Wish William
+🇭🇰 Volume-HK = snell, 46.3.104.202, 2345, psk= HTIktJO9UNZcoDlR, obfs=http, version=4
+
+//Aberdeen@SIN
+🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 36917, psk=3e7CJusBYkomy8S0, version=4
+🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
+
+//Arrakis
+🇭🇰 YxVM Snell4=snell,46.3.105.55,4503,psk=LXgccgFEF67i48PHqdLC,obfs=http,obfs-host=icloud.com,version=4,reuse=true,tfo=true
+

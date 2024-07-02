@@ -48,10 +48,6 @@
 🇯🇵TYO (Linode) = snell, 139.162.96.26, 10565, psk=HCI5eMDGq6SNfVWT, version=4
 
 //misaka | misaka.li
-🇭🇰 YXVM Hyper snell=snell,178.173.237.114,54845,version=4,psk=okCBQ8gyrmV1BC2GSDFA,reuse=true
-🇭🇰 YXVM Volume snell=snell,46.3.105.122,55259,version=4,psk=jzshqLvKv2VyBvDVrlQQ,reuse=true
-🇭🇰 YXVM Hyper=vmess,178.173.237.114,38915,username=b9a59b7d-a1c8-4dfc-bdd4-693703c0b6d9,ws=true,ws-path=/xm4cxhd1,vmess-aead=true,tls=false
-🇭🇰 YXVM Volume=vmess,46.3.105.122,20367,username=c558a5a6-2d9b-403b-d887-cd54fed56a49,ws=true,ws-path=/9z2fvivq,vmess-aead=true,tls=false
 🇭🇰 香港 IEPL  1=ss,gzdata1.fc-smartcloud.xyz,10001,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
 🇯🇵 日本 IEPL  1=ss,shdata1.fc-smartcloud.xyz,10002,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
 🇸🇬 新加坡 IEPL  1=ss,gzdata1.fc-smartcloud.xyz,10003,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
@@ -116,3 +112,7 @@ YXVM = snell, 46.3.106.32, 39708, psk=ACD1t9dDBynxaXGlvtli, version=4, reuse=tru
 //24.6.30
 //𝑵𝒊𝒈𝒉𝒕 19:37 PM UTC+8 
 🇭🇰 YxVM_Elastic-HK = snell, 178.173.239.229, 16338, psk=rpAdOytqcvuXBVHK, version=4
+
+//24.7.2
+//yun Ling
+🇭🇰 Miku-HK = snell, 23.163.8.159, 2345, psk=yOAzWZ35Aacwf4mn, obfs=http, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204

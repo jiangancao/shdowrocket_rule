@@ -43,28 +43,6 @@
 🇺🇸 ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
 🇩🇪 ᴅᴇ-ꜱᴀʟᴛʏꜰɪꜱʜ ᴄɴ = snell, 31.25.88.7, 14232, psk=3oEcBDSR1bEHvz8k, version=4, reuse=true, tfo=true
 
-//24.6.21
-//Aberdeen@SIN
-🇯🇵TYO (Linode) = snell, 139.162.96.26, 10565, psk=HCI5eMDGq6SNfVWT, version=4
-
-//misaka | misaka.li
-🇭🇰 香港 IEPL  1=ss,gzdata1.fc-smartcloud.xyz,10001,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
-🇯🇵 日本 IEPL  1=ss,shdata1.fc-smartcloud.xyz,10002,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
-🇸🇬 新加坡 IEPL  1=ss,gzdata1.fc-smartcloud.xyz,10003,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
-🇺🇸 美国 IEPL  1=ss,shdata1.fc-smartcloud.xyz,10004,encrypt-method=aes-128-gcm,password=Sj10bnYDe7w6V29E,obfs=http,obfs-host=4b5cfe553a.m.ctrip.com
-
-//24.6.22
-//misaka | misaka.li
-🇭🇰 RFC mini= snell, 199.15.79.4, 43904, psk = Q1jqzqeivV8hYkBy4goQ, version = 4, reuse = true, tfo = true
-🇭🇰 RFC = snell, 199.15.77.146, 52337, psk = Cj1uU212R8QMgc5Gf0K3, version = 4, reuse = true, tfo = true
-🇸🇬 v.ps = snell, 185.37.255.198, 41648, psk = gkgUdytGhR9Ij49CrOqo, version = 4, reuse = true, tfo = true
-
-//Vocrx
-🇭🇰 XSX = snell, xsxhk.revolver.ink, 24382, psk=EaBXAkI0QikL7RNWo5U4wg==, version=4, tfo=true
-
-//kocoo
-🇭🇰 Kvmla HK = snell, 103.213.245.134, 58888, psk=famWuw-noxxeb-9kyxxy, version=4, reuse=true
-
 //24.6.23
 //kocoo
 🇭🇰 Kvmla HK = snell, 103.213.245.134, 58888, psk=famWuw-noxxeb-9kyxxy, version=4, reuse=true

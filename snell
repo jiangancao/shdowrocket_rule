@@ -59,3 +59,10 @@
 //24.7.2
 //yun Ling
 🇭🇰 Miku-HK = snell, 23.163.8.159, 2345, psk=yOAzWZ35Aacwf4mn, obfs=http, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204
+
+//24.7.4
+//𝙑𝙤𝙘𝙧𝙭
+🇺🇸 PaneCloud = snell, 156.238.252.194, 24382, psk=jbracQcasX0xujaYmbhwDw==, version=4
+
+//Shaw
+🇯🇵 JP STD = snell, 157.254.198.176, 47534, psk=JfQx08sv7p9ABM8T, obfs=http, obfs-host=www.bing.com, version=4, tfo=true, ip-version=v4-only

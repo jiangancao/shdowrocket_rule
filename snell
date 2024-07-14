@@ -76,4 +76,5 @@
 Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=http, obfs-host=icloud.com, version=4, reuse=true, tfo=true
 //7.9
 🇸🇬 Kvmla 🆂 = snell, 144.48.6.203, 12345, psk=surgepro@666, version=4, reuse=true
-🇺🇸 Kurun LAX1 = snell, 154.23.240.93, 24710, psk=f6crBMeP7EhilekZ, obfs=http, obfs-host=icloud.com, version=4, underlying-proxy=
+🇺🇸 Kurun LAX1 = snell, 154.23.240.93, 24710, psk=f6crBMeP7EhilekZ, obfs=http, obfs-host=icloud.com, version=4, underlying-proxy=true
+🇸🇬 SGP-Sharon = snell, 188.64.108.26, 53708, psk=Vo92wPVIsDWfpSs7, obfs=http, version=4, reuse=true, tfo=true

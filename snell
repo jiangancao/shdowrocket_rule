@@ -78,3 +78,6 @@ Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=ht
 🇸🇬 Kvmla 🆂 = snell, 144.48.6.203, 12345, psk=surgepro@666, version=4, reuse=true
 🇺🇸 Kurun LAX1 = snell, 154.23.240.93, 24710, psk=f6crBMeP7EhilekZ, obfs=http, obfs-host=icloud.com, version=4
 🇸🇬 SGP-Sharon = snell, 188.64.108.26, 53708, psk=Vo92wPVIsDWfpSs7, obfs=http, version=4, reuse=true, tfo=true
+🇭🇰 ꜱʜᴀʀᴏɴ ꜱᴛᴅ = snell, 157.254.52.36, 23422, psk=rLMCCsT7WWs0SBDU, version=4, reuse=true, tfo=true
+🇸🇬 Singapura SG.GS = snell, 116.251.217.148, 2345, psk=qQqpRhLGHS8IVe5Z, version=4
+🇸🇬 Sharon SG-snell= snell,7mfi6ftasgw1by1p.cnmmb.xyz, 33893, psk = SeVXCImK1ONCCDE08qX0, version = 4, reuse = true, tfo = true

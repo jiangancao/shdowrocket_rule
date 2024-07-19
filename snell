@@ -81,3 +81,6 @@ Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=ht
 🇭🇰 ꜱʜᴀʀᴏɴ ꜱᴛᴅ = snell, 157.254.52.36, 23422, psk=rLMCCsT7WWs0SBDU, version=4, reuse=true, tfo=true
 🇸🇬 Singapura SG.GS = snell, 116.251.217.148, 2345, psk=qQqpRhLGHS8IVe5Z, version=4
 🇸🇬 Sharon SG-snell= snell,7mfi6ftasgw1by1p.cnmmb.xyz, 33893, psk = SeVXCImK1ONCCDE08qX0, version = 4, reuse = true, tfo = true
+🇯🇵 ꜱʜᴀʀᴏɴ ꜱᴛᴅ = snell, 157.254.198.92, 5858, psk=jAifo1w5EqpxMOZT, version=4, reuse=true, tfo=true
+🇺🇸Seattle spartan = snell, 45.142.159.41, 2345, psk=6AeeE14ICINDZCZq, obfs=http, obfs-host=www.bing.com, version=4, reuse=true, tfo=true
+🇸🇬 SGP-Sharon = snell, 188.64.108.26, 53708, psk=Vo92wPVIsDWfpSs7, obfs=http, version=4, reuse=true, tfo=true

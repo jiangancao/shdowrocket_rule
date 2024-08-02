@@ -21,31 +21,7 @@
 //🅴🅲🄱🄾🅃 14:06 PM
 🇺🇸 ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
 
-//24.6.23
-//kocoo
-🇭🇰 Kvmla HK = snell, 103.213.245.134, 58888, psk=famWuw-noxxeb-9kyxxy, version=4, reuse=true
-
-//24.6.28
-//Shaw
-🇸🇬 Yxvm SG = snell, 46.3.96.140, 47563, psk=kzfXUQqujpQEKZxR, obfs=http, obfs-host=www.bing.com, version=4, tfo=true, ip-version=v4-only
-
-//╿αῃ𝘾𝗲📱
 🇯🇵 JP-Wagon = snell, 178.157.57.78, 23716, psk=fIzCyXdpRnmJLuGR, obfs=http, version=4, reuse=true
-
-//Shaw🤪
-🇭🇰 HKG lite = snell, 157.254.32.41, 47533, psk=o9EtbysVGKdJba02, obfs=http, obfs-host=www.bing.com, version=4, tfo=true, ip-version=v4-only
-
-//我们是夜晚
-🇭🇰 Sharon [N] = snell, 157.254.53.17, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
-🇯🇵 Sharon [N] = snell, 157.254.198.137, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
-🇸🇬 Sharon [N] = snell, 188.64.108.81, 14251, psk=qwertyuiop, obfs=http, version=4, reuse=true, block-quic=on
-
-//mieq
-🇭🇰 CloudSilk-HK = snell, 37.123.196.21, 36415, psk=KnEtPK9uA0VGcfL5OubXHqdgrg7hf3k, version=4
-
-//𝙑𝙤𝙘𝙧𝙭😖
-🇭🇰 Sharon = snell, 157.254.52.18, 24382, psk=Ji3TUQnNJBiCauuOFr8gxA==, version=4
-🇯🇵 Sharon = snell, 157.254.198.165, 24382, psk=o3QLRLZWaDzR8ds9XGJt5A==, version=4
 
 //24.6.29
 //Aberdeen@SIN
@@ -81,10 +57,5 @@ Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=ht
 🇭🇰 ꜱʜᴀʀᴏɴ ꜱᴛᴅ = snell, 157.254.52.36, 23422, psk=rLMCCsT7WWs0SBDU, version=4, reuse=true, tfo=true
 🇸🇬 Singapura SG.GS = snell, 116.251.217.148, 2345, psk=qQqpRhLGHS8IVe5Z, version=4
 🇸🇬 Sharon SG-snell= snell,7mfi6ftasgw1by1p.cnmmb.xyz, 33893, psk = SeVXCImK1ONCCDE08qX0, version = 4, reuse = true, tfo = true
-🇯🇵 ꜱʜᴀʀᴏɴ ꜱᴛᴅ = snell, 157.254.198.92, 5858, psk=jAifo1w5EqpxMOZT, version=4, reuse=true, tfo=true
-🇺🇸Seattle spartan = snell, 45.142.159.41, 2345, psk=6AeeE14ICINDZCZq, obfs=http, obfs-host=www.bing.com, version=4, reuse=true, tfo=true
-🇸🇬 SGP-Sharon = snell, 188.64.108.26, 53708, psk=Vo92wPVIsDWfpSs7, obfs=http, version=4, reuse=true, tfo=true
-🇭🇰Akile.HKT = snell, 203.198.34.160, 10914, psk=7tU6mqM9d8gLOqdcHqBmySwkGLa89xD, version=4, reuse=true
-🇸🇬 SGP = snell, 188.64.108.77, 2345, psk=9MULKI4vcX7wh4kF, version=4, reuse=true
 🇭🇰lee-HK = snell, 35.220.141.57, 30626, psk=H18bn2wENW9H3QDq, obfs=http, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204
 🇯🇵 Sharon = snell, 157.254.198.91, 2417, psk=kpJrz2h9VVzAPcsF, obfs=http, version=4, tfo=true

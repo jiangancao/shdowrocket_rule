@@ -87,3 +87,4 @@ Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=ht
 🇭🇰Akile.HKT = snell, 203.198.34.160, 10914, psk=7tU6mqM9d8gLOqdcHqBmySwkGLa89xD, version=4, reuse=true
 🇸🇬 SGP = snell, 188.64.108.77, 2345, psk=9MULKI4vcX7wh4kF, version=4, reuse=true
 🇭🇰lee-HK = snell, 35.220.141.57, 30626, psk=H18bn2wENW9H3QDq, obfs=http, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204
+🇯🇵 Sharon = snell, 157.254.198.91, 2417, psk=kpJrz2h9VVzAPcsF, obfs=http, version=4, tfo=true

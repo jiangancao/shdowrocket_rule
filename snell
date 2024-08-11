@@ -60,3 +60,4 @@ Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=ht
 🇭🇰lee-HK = snell, 35.220.141.57, 30626, psk=H18bn2wENW9H3QDq, obfs=http, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204
 🇯🇵 Sharon = snell, 157.254.198.91, 2417, psk=kpJrz2h9VVzAPcsF, obfs=http, version=4, tfo=true
 YxVM HK = snell, 178.173.237.185, 53260, psk=KMYiC9aGkwKDJtGK, version=4, reuse=true
+HK = snell, 178.173.249.36, 20186, psk=kwEijiJThkaomsm9OgLSf0Np0kKgRDw, version=4, tfo=true

@@ -61,3 +61,5 @@ Sharon-JP = snell, 157.254.198.178, 2578, psk=JaQdXr4gcjR3b3-9ibzji6FD4, obfs=ht
 🇯🇵 Sharon = snell, 157.254.198.91, 2417, psk=kpJrz2h9VVzAPcsF, obfs=http, version=4, tfo=true
 YxVM HK = snell, 178.173.237.185, 53260, psk=KMYiC9aGkwKDJtGK, version=4, reuse=true
 HK = snell, 178.173.249.36, 20186, psk=kwEijiJThkaomsm9OgLSf0Np0kKgRDw, version=4, tfo=true
+HKT = snell, hkt.shushenm.com, 16110, psk=oXPTOq4uwSko4TAxOlYdbMxcVzwR4TA, version=4, tfo=true
+🇩🇪 BageVM = snell, 160.22.142.69, 24382, psk=PCptB7ToPYcYc7WOqsaGxQ==, version=4

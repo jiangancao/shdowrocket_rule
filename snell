@@ -63,3 +63,4 @@ YxVM HK = snell, 178.173.237.185, 53260, psk=KMYiC9aGkwKDJtGK, version=4, reuse=
 HK = snell, 178.173.249.36, 20186, psk=kwEijiJThkaomsm9OgLSf0Np0kKgRDw, version=4, tfo=true
 HKT = snell, hkt.shushenm.com, 16110, psk=oXPTOq4uwSko4TAxOlYdbMxcVzwR4TA, version=4, tfo=true
 🇩🇪 BageVM = snell, 160.22.142.69, 24382, psk=PCptB7ToPYcYc7WOqsaGxQ==, version=4
+DE = snell, 179.61.138.43, 30125, psk=CWxKDDLS5axpPCfwDSo9IcJMX90naje, version=4, tfo=true

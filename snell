@@ -28,9 +28,4 @@
 🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 36917, psk=3e7CJusBYkomy8S0, version=4
 🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 
-
-
-//7.8
-🇸🇬 Yxvm = snell, 46.3.96.10, 2345, psk=v53nJcYdjFODjWBD, obfs=http, version=4, tfo=true
-🇯🇵 Sharon = snell, 157.254.198.91, 2417, psk=kpJrz2h9VVzAPcsF, obfs=http, version=4, tfo=true
-🇭🇰 𝙎𝙝𝙖𝙧𝙤𝙣 = snell, 157.254.52.32, 13678, psk=AijHCeo165ssdavqDZTb1cJMX5GcgZzIVE, version=4, tfo=true
+Osaka = snell, 23.106.140.123, 18556, psk=8ILmABwKMRskQ3p1wmmWOwF53VDVvFZ, version=4, tfo=true

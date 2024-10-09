@@ -1,34 +1,9 @@
-🇺🇸 Do US = snell, 143.198.131.196, 2345, psk=zhetengyun, version=4, reuse=true, tfo=true
-//2024.5.20
 🇺🇸Buffalo = snell, 192.210.233.115, 8443, psk=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, version=4, tfo=true,shadow-tls-password=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
 
-🇺🇸SJC (Cloudsilk) = snell, 37.123.192.212, 18646, psk=1Vcxlxu249Kfh5xN, version=4
-🇭🇰 Aper:Basic 🅂  v6 = snell, 2406:4440:0:106::15:a, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
-🇭🇰 Aper 🅂 v6 = snell, 209.146.104.24, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
-🇭🇰 CloudSilk-HK = snell, 37.123.196.21, 36415, psk=KnEtPK9uA0VGcfL5OubXHqdgrg7hf3k, version=4
-
-
-//24.6.1
-
-//24.6.7
-//Luca丨熬夜版
-🇸🇬 Eons [S] = snell, 38.150.8.110, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
-
-//书生
-🇬🇧 United Kingdom = snell, 18.171.57.29, 2345, psk=LRtHzMQKAZzqdpl6, obfs=http, obfs-host=icloud.com, version=4, tfo=true, ip-version=v4-only
-
-//24.6.20
-//🅴🅲🄱🄾🅃 14:06 PM
 🇺🇸 ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
 
-🇯🇵 JP-Wagon = snell, 178.157.57.78, 23716, psk=fIzCyXdpRnmJLuGR, obfs=http, version=4, reuse=true
-
-//24.6.29
-//Aberdeen@SIN
-🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 36917, psk=3e7CJusBYkomy8S0, version=4
 🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 
-🇯🇵Osaka = snell, 23.106.140.123, 18556, psk=8ILmABwKMRskQ3p1wmmWOwF53VDVvFZ, version=4, tfo=true
 🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 
 🇸🇬 Lightsail [N] = snell, 54.251.105.125, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
@@ -36,7 +11,6 @@
 新加坡 = snell, 20.247.217.184, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, obfs=http, obfs-host=snell.v4.host, version=4, reuse=true, tfo=true
 Snell v4 × CDN = snell, 104.17.17.17, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, obfs=http, obfs-host=snell.cdn.200917.xyz, version=4, reuse=true, tfo=true
 Snell Test = snell, 155.248.211.30, 80, psk=5c09dcda6c994952b947100d2703ccea, obfs=http, obfs-host=cn-sdqd-ccc-live-tracker-02.chat.bilibili.com, version=4
-snellzy = snell,  52.148.92.233, 44944, psk=jPtXuDHmuwv2FwAN, tfo=true,  version=4
 🇺🇸  lax eb = snell, 154.17.225.164, 6553, psk=y4yC8vniDnEwO1v1, version=4
 🇺🇸 ZGO|Gananel=snell, 38.148.249.200, 2345, psk=QDiAnbz1yrr2i2nE, obfs=http, obfs-host=icloud.com, version=4
 🇰🇷Oracle-Seoul-ARM-SN|Gananel=snell, 132.226.238.252, 16888, psk=cjw1986!, version=4
@@ -67,4 +41,3 @@ KR电信快乐鸡-B = hysteria2, krb.081111.xyz, 8577, password=0Dy5DplQTatiDpng
 🇺🇸Buffalo = snell, 192.210.233.115, 8443, psk=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, version=4, tfo=true,shadow-tls-password=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
 🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
-haoyong = snell, 1.1.1.1, 1234, psk=zhendehenhaoyong=, version=4

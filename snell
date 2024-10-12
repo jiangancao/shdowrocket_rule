@@ -41,3 +41,4 @@ KR电信快乐鸡-B = hysteria2, krb.081111.xyz, 8577, password=0Dy5DplQTatiDpng
 🇺🇸Buffalo = snell, 192.210.233.115, 8443, psk=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, version=4, tfo=true,shadow-tls-password=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
 🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
+Debee HK = snell, 82.152.162.11, 33204, psk=bJ0lz1gm4TwlBe2l8ffRwA9OjW9YtVz, version=4, tfo=true

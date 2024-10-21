@@ -43,3 +43,5 @@ KR电信快乐鸡-B = hysteria2, krb.081111.xyz, 8577, password=0Dy5DplQTatiDpng
 🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
 Debee HK = snell, 82.152.162.11, 33204, psk=bJ0lz1gm4TwlBe2l8ffRwA9OjW9YtVz, version=4, tfo=true
 Snell v4 × OBFS = snell, 48.210.56.220, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, obfs=http, obfs-host=snell.v4.host, version=4, reuse=true
+🇸🇬 Lightsail [N] = snell, 18.138.173.138, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
+🇸🇬 Lightsail [S] = ss, 18.138.173.138, 11111, encrypt-method=2022-blake3-aes-128-gcm, password=dSpo8bBxLvnR8p4tcqzJRA==, udp-relay=true

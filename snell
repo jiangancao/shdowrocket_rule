@@ -1,9 +1,6 @@
 🇺🇸Buffalo = snell, 192.210.233.115, 8443, psk=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, version=4, tfo=true,shadow-tls-password=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
-
 🇺🇸 ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
-
 🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
-
 🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 
 🇸🇬 Lightsail [N] = snell, 54.251.105.125, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
@@ -47,4 +44,7 @@ Snell v4 × OBFS = snell, 48.210.56.220, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9
 🇸🇬 Lightsail [S] = ss, 18.138.173.138, 11111, encrypt-method=2022-blake3-aes-128-gcm, password=dSpo8bBxLvnR8p4tcqzJRA==, udp-relay=true
 🇸🇬 Lightsail [N] = snell, 13.250.227.17, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
 🇸🇬 Orrange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
+SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, password=YRXiSIr4rohp6iBl8dYWHg==, obfs=http, obfs-host=i.am.ss.2022.gfw.nmsl, udp-relay=true
+🇸🇬 Lightsail [N] = snell, 13.250.227.17, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
+🇺🇸Lam-US = snell, 167.253.152.104, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
 SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, password=YRXiSIr4rohp6iBl8dYWHg==, obfs=http, obfs-host=i.am.ss.2022.gfw.nmsl, udp-relay=true

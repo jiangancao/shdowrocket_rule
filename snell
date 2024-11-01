@@ -48,3 +48,4 @@ SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, 
 🇸🇬 Lightsail [N] = snell, 13.250.227.17, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
 🇺🇸Lam-US = snell, 167.253.152.104, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
 SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, password=YRXiSIr4rohp6iBl8dYWHg==, obfs=http, obfs-host=i.am.ss.2022.gfw.nmsl, udp-relay=true
+🇺🇸 Dmit lax eb = snell, 154.17.225.164, 6553, psk=y4yC8vniDnEwO1v1, version=4

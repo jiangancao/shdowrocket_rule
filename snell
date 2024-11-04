@@ -50,5 +50,6 @@ SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, 
 SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, password=YRXiSIr4rohp6iBl8dYWHg==, obfs=http, obfs-host=i.am.ss.2022.gfw.nmsl, udp-relay=true
 🇺🇸 Dmit lax eb = snell, 154.17.225.164, 6553, psk=y4yC8vniDnEwO1v1, version=4
 🇺🇸boom=snell, 127.0.0.1, 2345, psk=QDiAnbz1yrr2i2nE, obfs=http, obfs-host=icloud.com, version=4
-
-已被id1539489309喷跑路= snell, 1.1.1.1, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
+🇯🇵巨硬(snell) = snell, surge.cnmmb.com, 443, psk=SurgePro, version=4, reuse=true, shadow-tls-password=SurgePro, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
+🇯🇵巨硬(ss) = ss, surge.cnmmb.com, 8443, encrypt-method=2022-blake3-aes-128-gcm, password=cMeAc0+udVPpNr0KSj0ezg==, udp-relay=true
+🇯🇵巨硬(hy2) = hysteria2, surge.cnmmb.com, 443, password=SurgePro, download-bandwidth=250, ecn=true, sni=surge.cnmmb.com, port-hopping=50000-60000

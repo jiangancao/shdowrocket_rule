@@ -51,3 +51,4 @@ SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, 
 🇺🇸 Dmit lax eb = snell, 154.17.225.164, 6553, psk=y4yC8vniDnEwO1v1, version=4
 🇺🇸boom=snell, 127.0.0.1, 2345, psk=QDiAnbz1yrr2i2nE, obfs=http, obfs-host=icloud.com, version=4
 
+已被id1539489309喷跑路= snell, 1.1.1.1, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http

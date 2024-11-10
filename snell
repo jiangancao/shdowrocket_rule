@@ -53,3 +53,10 @@ SS2022 Obfs-HTTP = ss, 4.216.72.20, 80, encrypt-method=2022-blake3-aes-128-gcm, 
 🇯🇵巨硬(snell) = snell, surge.cnmmb.com, 443, psk=SurgePro, version=4, reuse=true, shadow-tls-password=SurgePro, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
 🇯🇵巨硬(ss) = ss, surge.cnmmb.com, 8443, encrypt-method=2022-blake3-aes-128-gcm, password=cMeAc0+udVPpNr0KSj0ezg==, udp-relay=true
 🇯🇵巨硬(hy2) = hysteria2, surge.cnmmb.com, 443, password=SurgePro, download-bandwidth=250, ecn=true, sni=surge.cnmmb.com, port-hopping=50000-60000
+
+🇸🇬 Lightsail [N] = snell, 13.250.227.17, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
+🇸🇬 Eons 🅂=snell,38.150.8.110,12345,version=4,psk=surgepro@666,reuse=true
+🇭🇰 Aper 🅂=snell,209.146.104.24,12345,version=4,psk=surgepro@666,reuse=true
+CloudSilk-HK=snell,37.123.196.21,36415,version=4,psk=KnEtPK9uA0VGcfL5OubXHqdgrg7hf3k
+🇸🇬 Eons 🅂=snell,38.150.8.110,12345,version=4,psk=surgepro@666,reuse=true
+🇸🇬 Eons [S]=snell,38.150.8.110,12345,version=4,psk=surgepro@666,reuse=true

@@ -18,3 +18,5 @@
 🇸🇬 Orrange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
 🇸🇬 Lightsail [N] = snell, 13.250.227.17, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
 🇺🇸Lam-US = snell, 167.253.152.104, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
+HK1 = snell, 50.114.152.50, 2345, psk=yduZN7am4vkW3RQf, version=4, tfo=true
+HK2 = snell, 50.114.155.180, 2345, psk=OSgVaYTrZDb9coWZ, version=4, tfo=true

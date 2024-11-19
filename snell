@@ -20,4 +20,4 @@
 🇺🇸Lam-US = snell, 167.253.152.104, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
 HK1 = snell, 50.114.152.50, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
 HK2 = snell, 50.114.155.180, 2345, psk=0Pqy6YRQMEPY0IoF, version=4, tfo=true
-
+HiNet = snell, 118.169.98.99, 43253, psk=surgepro666, version=4

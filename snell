@@ -1,29 +1,20 @@
-🇺🇸 ᴜs-ʜᴠʜ = snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4, reuse=true, tfo=true
 🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 🇺🇸 ZGO|Gananel=snell, 38.148.249.200, 2345, psk=QDiAnbz1yrr2i2nE, obfs=http, obfs-host=icloud.com, version=4
 🇰🇷Oracle-Seoul-ARM-SN|Gananel=snell, 132.226.238.252, 16888, psk=cjw1986!, version=4
 🇳🇱 AMS (Oracle Cloud)|Gananel=snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 🇦🇪DXB (Oracle Cloud)|Gananel=snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
-🇺🇸 BWG US Snell|Gananel=snell, gs8yexfbm49k0bwg.cnmmb.xyz, 2345, psk=4bzc4krzVTk2lEQE, obfs=http, obfs-host=icloud.com, version=4
-🇰🇷Oracle-Seoul-ARM-Tuic5 = tuic-v5, 132.226.238.252, 60166, password=cjw1986!, uuid=DE31649B-3B98-2A38-8514-04FCCAE6DEFC, alpn=h3, skip-cert-verify=true, sni=www.bing.com
-🇰🇷Oracle-Seoul-ARM-HY2 = hysteria2, 132.226.238.252, 3443, password=cjw1986!, download-bandwidth=500, ecn=true, skip-cert-verify=true, sni=arm.56881186.xyz
 🇰🇷SEL (Oracle Cloud)|Gananel=snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 🇩🇪 CloudSilke|Gananel=snell, 82.115.31.187, 6153, psk=ap5201314, version=4
 🇯🇵 HH|Gananel=snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
-🇺🇸 ʜᴠʜ|Gananel=snell, 107.175.54.31, 12323, psk=TB0mr5pIEx6zVIY9, version=4
 🇯🇵 HH = snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
 🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
-🇭🇰Debee HK = snell, 82.152.162.11, 33204, psk=bJ0lz1gm4TwlBe2l8ffRwA9OjW9YtVz, version=4, tfo=true
-🇸🇬 Orrange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
-🇸🇬 YxVM = snell, yxvmsg.revolver.ink, 24382, psk="OBL0jsWcjUCzv999p101yA==", version=4
 🇸🇬 Oracle = snell, oraclesgp.revolver.ink, 24382, psk=hrqAjPi2rYZVCHNalBTgHA, version=4
 HK = snell, 82.152.160.26, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
 🇯🇵 Sharon = snell, 157.254.199.23, 2345, psk=B7SEPtbXveNvGMJR, version=4, tfo=true, test-url=http://i.ytimg.com/generate_204, block-quic=on
 🇮🇳BOM (Oracle Cloud) = snell, oracle.bom.as917.net, 2345, psk=EsY6yFgo2YZzpBBP, version=4
-🇭🇰 HK = snell, 42.2.93.63, 34992, psk=M8DxVDh1pHRJ49dW, version=4, reuse=true
-GCP-TW = snell, 35.206.232.168, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
 GCP-AU = snell, 35.189.41.123, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
-Salmon US = snell, 104.234.4.31, 13257, psk=ATMyuI8o6igPallqJ8JA, version=4, reuse=true, tfo=true
 🇯🇵 とうきょう Amazon = snell, 52.195.233.160, 2345, psk=fUY4s9zNcMYzmpmP, version=4, reuse=true, tfo=true
 🇸🇬 Lightsail [N] = snell, 18.142.196.143, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6Dha, version=4, reuse=true
+🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
+🇺🇸 SJC Oracle = snell, 64.181.244.112, 2344, psk=U1fIxsPnv8sgMfhe, version=4, reuse=true, tfo=true

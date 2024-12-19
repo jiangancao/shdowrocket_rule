@@ -18,3 +18,6 @@ GCP-AU = snell, 35.189.41.123, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
 🇸🇬 Lightsail [N] = snell, 18.142.196.143, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6Dha, version=4, reuse=true
 🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
 🇺🇸 SJC Oracle = snell, 64.181.244.112, 2344, psk=U1fIxsPnv8sgMfhe, version=4, reuse=true, tfo=true
+🇭🇰 GCP-HK = snell, 35.215.155.60, 11943, psk="EGKzaudrZbFWq4LYCKc6YvvDkztcFGQ", version=4
+🇬🇧CVT (Bage) ₛ = snell, 82.152.6.45, 60914, psk=O41csiRZ8rf6aKmvIcoWi2Q2XwLvrLVBoQrS/AOGSmU=, version=4, reuse=true
+🇯🇵 HostHatch [N] = snell, 150.107.200.156, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6DhE, obfs=http, version=4, reuse=true, block-quic=on

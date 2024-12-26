@@ -21,3 +21,4 @@ GCP-AU = snell, 35.189.41.123, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
 🇭🇰 GCP-HK = snell, 35.215.155.60, 11943, psk="EGKzaudrZbFWq4LYCKc6YvvDkztcFGQ", version=4
 🇬🇧CVT (Bage) ₛ = snell, 82.152.6.45, 60914, psk=O41csiRZ8rf6aKmvIcoWi2Q2XwLvrLVBoQrS/AOGSmU=, version=4, reuse=true
 🇯🇵 HostHatch [N] = snell, 150.107.200.156, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6DhE, obfs=http, version=4, reuse=true, block-quic=on
+🇩🇪 OVH = snell, 57.129.62.62, 22446, psk=+C601UkVrfwx/7Hi, version=4

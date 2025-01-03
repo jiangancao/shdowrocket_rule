@@ -14,3 +14,4 @@
 🇩🇪 OVH = snell, 57.129.62.62, 22446, psk=+C601UkVrfwx/7Hi, version=4
 🇸🇬 𝑿𝑺𝑿-𝑺𝒏𝒆𝒍𝒍 = snell, 103.213.247.102, 6153, psk=ap5201314, version=4, ip-version=prefer-v4
 🇺🇸SEA (Vultr) = snell, 66.42.77.181, 2345, psk=pKyRmyWrDfA4OlBY, version=4
+🇰🇷 Korea_Snell = snell, 1.1.1.1, 2345, psk=steve, version=4, obfs=http, obfs-host=steve.me

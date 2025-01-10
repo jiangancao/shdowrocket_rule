@@ -15,6 +15,4 @@
 🇸🇬 𝑿𝑺𝑿-𝑺𝒏𝒆𝒍𝒍 = snell, 103.213.247.102, 6153, psk=ap5201314, version=4, ip-version=prefer-v4
 🇺🇸SEA (Vultr) = snell, 66.42.77.181, 2345, psk=pKyRmyWrDfA4OlBY, version=4
 🇰🇷𝗢𝗿𝗮𝗰𝗹𝗲 = snell, 150.230.252.99, 21746, psk=zwvgojXl9LH54oB4, version=4, reuse=true, tfo=true
-SS AEAD × OBFS = ss, 52.156.58.144, 80, encrypt-method=2022-blake3-aes-128-gcm, password="rEe5Dc7LQIjzNeInLj+V4w==", obfs=http, obfs-host=100kg.wheat.5km.road.single.shoulder, udp-relay=true
-SNELL V4 × OBFS = snell, 52.156.58.144, 80, psk="rEe5Dc7LQIjzNeInLj+V4w==", version=4, reuse=true, obfs=http, obfs-host=read.epic.of.king.sager.during.youth
-🇸🇬Sg2Snell = snell, 129.150.61.95,14682, psk=zWYeVBzr1xtLggZaxrjPSwwHeUwzo9C,version=4
+🇯🇵SNELL V4 × OBFS = snell, 52.156.58.144, 80, psk="rEe5Dc7LQIjzNeInLj+V4w==", version=4, reuse=true, obfs=http, obfs-host=read.epic.of.king.sager.during.youth

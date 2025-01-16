@@ -8,11 +8,10 @@
 🇩🇪 CloudSilke|Gananel=snell, 82.115.31.187, 6153, psk=ap5201314, version=4
 🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
 🇸🇬 Oracle = snell, oraclesgp.revolver.ink, 24382, psk=hrqAjPi2rYZVCHNalBTgHA, version=4
-🇯🇵 とうきょう Amazon = snell, 52.195.233.160, 2345, psk=fUY4s9zNcMYzmpmP, version=4, reuse=true, tfo=true
 🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
 🇺🇸 SJC Oracle = snell, 64.181.244.112, 2344, psk=U1fIxsPnv8sgMfhe, version=4, reuse=true, tfo=true
 🇩🇪 OVH = snell, 57.129.62.62, 22446, psk=+C601UkVrfwx/7Hi, version=4
-🇸🇬 𝑿𝑺𝑿-𝑺𝒏𝒆𝒍𝒍 = snell, 103.213.247.102, 6153, psk=ap5201314, version=4, ip-version=prefer-v4
 🇺🇸SEA (Vultr) = snell, 66.42.77.181, 2345, psk=pKyRmyWrDfA4OlBY, version=4
 🇰🇷𝗢𝗿𝗮𝗰𝗹𝗲 = snell, 150.230.252.99, 21746, psk=zwvgojXl9LH54oB4, version=4, reuse=true, tfo=true
 🇯🇵SNELL V4 × OBFS = snell, 52.156.58.144, 80, psk="rEe5Dc7LQIjzNeInLj+V4w==", version=4, reuse=true, obfs=http, obfs-host=read.epic.of.king.sager.during.youth
+🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4

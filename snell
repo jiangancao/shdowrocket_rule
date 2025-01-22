@@ -19,3 +19,4 @@
 SS AEAD × OBFS = ss, 52.156.58.144, 80, encrypt-method=2022-blake3-aes-128-gcm, password="rEe5Dc7LQIjzNeInLj+V4w==", obfs=http, obfs-host=100kg.wheat.5km.road.single.shoulder, udp-relay=true
 🇺🇸BWG-SNELL = snell, 74.211.111.10, 3098, psk=XowrZ9Tjkb04OdMS, version=4, reuse=true, tfo=true, ip-version=v4-only, ecn=true
 🇺🇸BWG-SS = ss, 2607:8700:5500:5ace::2, 2525, encrypt-method=2022-blake3-aes-128-gcm, password="MlNr90VDXB+oMTSs+oHFdg==", tfo=true, ecn=true, udp-relay=true
+🇯🇵 AkilePro = snell, 154.16.248.140, 35462, psk=GG03yzRqRcfZq957, version=4, tfo=true, reuse=true, ecn=true

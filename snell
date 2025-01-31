@@ -23,3 +23,8 @@ SS AEAD × OBFS = ss, 52.156.58.144, 80, encrypt-method=2022-blake3-aes-128-gcm,
 🇭🇰 ISIF = snell, 46.232.106.16, 3218, psk=tQVK2updzDtVaYE2, version=4, tfo=true, reuse=true, ecn=true
 🇯🇵Yxvm-JP = snell, 46.3.100.77, 5213, psk=kHHJ7X2o_Ek*Qtz2V3nH
 🇺🇸 vmissUS9929 = snell, ruimin.scoloy.sbs, 51030, psk=m9pwEAt5eK5t9W2M, version=4, reuse=true
+🇸🇬 LegendVPS = snell, 31.58.142.213, 2345, psk=fCOc0kU8OkjO0WH1, version=4, tfo=true, reuse=true, ecn=true
+🇯🇵Yxvm-JP = snell, 46.3.100.77, 5213, psk=kHHJ7X2o_Ek*Qtz2V3nH
+🇭🇰 ISIF = snell, 46.232.106.16, 3218, psk=tQVK2updzDtVaYE2, version=4, tfo=true, reuse=true, ecn=true
+🇩🇪Akile-DE = snell, 156.226.174.149, 5210, psk=yNsNOqlYKPBZax2Y, version=4, reuse=true, tfo=true
+🇯🇵 Clawcloud = snell, 47.79.84.105, 2345, psk=7LDISy2HZV0XkYW8, version=4, reuse=true

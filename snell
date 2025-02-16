@@ -41,3 +41,6 @@ sɢ-ᴏʀᴀᴄʟᴇᵛ⁶=snell,2603:c024:4506:9daa:f879:f945:e96f:9007,43254,v
 ɢᴇᴍᴀɴʏ 01=snell,2a01:4f8:201:2063:0000:0000:1640:8685,12321,version=4,psk=QPPfvR3dNYjjEngu,tfo=true,udp-relay=true,underlying-proxy=sɢ-ᴏʀᴀᴄʟᴇᵛ⁶,reuse=true
 ʟᴀx-ᴅᴍɪᴛ=snell,154.17.238.12,32143,version=4,psk=deyFTuaOwftpAeYi,tfo=true,udp-relay=true,reuse=true
 ᴊᴘ-ᴇᴠᴏxᴛ=snell,166.88.100.172,39878,version=4,psk=juCCOl6fu6RIDUtj,tfo=true,udp-relay=true
+TWLite = snell, 45.196.239.170, 2345, psk=EQcosEwI2TWKZGET, version=4, tfo=true, reuse=true
+HKLite = snell, 62.192.175.13, 2345, psk=EUOQoLgdeAZE0fgF, version=4, tfo=true, reuse=true
+HKBGP-Standard = snell, 140.235.36.89, 2345, psk=oBqgod5Ot5ImsqqU, version=4, tfo=true, reuse=true

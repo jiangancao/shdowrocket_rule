@@ -28,3 +28,4 @@ HKBGP-Standard = snell, 140.235.36.89, 2345, psk=oBqgod5Ot5ImsqqU, version=4, tf
 Dmit|subnet = subnet, default = 🇺🇸 Dmit|Snell|V6, "TYPE:CELLULAR" = 🇺🇸 Dmit|Snell|V6, "TYPE:WIFI" = 🇺🇸 Dmit|Snell, "TYPE:WIRED" = 🇺🇸 Dmit|Snell
 🇭🇰 Acck HKVV = snell, 45.192.240.62, 2345, psk=cE5B6xP3Wn1pjDoc, version=4, reuse=true, tfo=true
 snell = snell, 162.245.220.196, 56423, psk=q50n5jz3IrMgp2D9, version=4, tfo=true, reuse=true, ecn=true
+MO = snell, 154.83.89.197, 2345, psk=UAeTy0qUaeoabglH, version=4, tfo=true, reuse=true

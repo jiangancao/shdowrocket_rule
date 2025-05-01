@@ -18,3 +18,4 @@ snell = snell, 162.245.220.196, 56423, psk=q50n5jz3IrMgp2D9, version=4, tfo=true
 MO = snell, 154.83.89.197, 2345, psk=UAeTy0qUaeoabglH, version=4, tfo=true, reuse=true
 🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
 🇸🇬 AWS = snell, 54.254.3.27, 2345, psk=LDHOQlwepUz3IaJH, version=4, tfo=true, reuse=true, ecn=true
+🇺🇸BUF (Colocrossing) = snell, 23.94.29.30, 49889, psk=xyp9Dd6DDb927og7, version=4, tfo=false, reuse=true, ecn=true

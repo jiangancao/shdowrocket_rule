@@ -19,3 +19,4 @@ MO = snell, 154.83.89.197, 2345, psk=UAeTy0qUaeoabglH, version=4, tfo=true, reus
 🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
 🇸🇬 AWS = snell, 54.254.3.27, 2345, psk=LDHOQlwepUz3IaJH, version=4, tfo=true, reuse=true, ecn=true
 🇺🇸BUF (Colocrossing) = snell, 23.94.29.30, 49889, psk=xyp9Dd6DDb927og7, version=4, tfo=false, reuse=true, ecn=true
+🇯🇵 JP-Lam = snell, 103.165.85.110, 8443, psk=AijHCeos15IvqDZTb1cJMX5GcgZzIVE, version=4

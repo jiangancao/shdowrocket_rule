@@ -1,24 +1,12 @@
 🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
-🇺🇸 ZGO|Gananel=snell, 38.148.249.200, 2345, psk=QDiAnbz1yrr2i2nE, obfs=http, obfs-host=icloud.com, version=4
 🇳🇱 AMS (Oracle Cloud)|Gananel=snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
 🇦🇪DXB (Oracle Cloud)|Gananel=snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
 🇰🇷SEL (Oracle Cloud)|Gananel=snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
 🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
-🇸🇬 Oracle = snell, oraclesgp.revolver.ink, 24382, psk=hrqAjPi2rYZVCHNalBTgHA, version=4
-🇸🇬SIN (Oracle Cloud) = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
-🇰🇷𝗢𝗿𝗮𝗰𝗹𝗲 = snell, 150.230.252.99, 21746, psk=zwvgojXl9LH54oB4, version=4, reuse=true, tfo=true
 🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇯🇵WEPC92244796842 = snell, 5.226.48.29, 55665, psk=EaRNcRfJFZPTigE2, version=4, tfo=true, reuse=true, ecn=true
-SS AEAD × OBFS = ss, 52.156.58.144, 80, encrypt-method=2022-blake3-aes-128-gcm, password="rEe5Dc7LQIjzNeInLj+V4w==", obfs=http, obfs-host=100kg.wheat.5km.road.single.shoulder, udp-relay=true
-ʜᴋ-ᴀʟɪᴄʟᴏᴜᴅ=snell,8.210.92.141,31315,version=4,psk=Rnix8S1yqPm3clKJ,tfo=true,udp-relay=true,reuse=true
-ʜᴋɢ-ʙᴇꜱᴛᴠᴍ=snell,156.251.183.208,12121,version=4,psk=O4eP9GRIwtdvULro,tfo=true,udp-relay=true,reuse=true
 ʟᴀx-ᴅᴍɪᴛ=snell,154.17.238.12,32143,version=4,psk=deyFTuaOwftpAeYi,tfo=true,udp-relay=true,reuse=true
-snell = snell, 162.245.220.196, 56423, psk=q50n5jz3IrMgp2D9, version=4, tfo=true, reuse=true, ecn=true
-MO = snell, 154.83.89.197, 2345, psk=UAeTy0qUaeoabglH, version=4, tfo=true, reuse=true
 🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
 🇸🇬 AWS = snell, 54.254.3.27, 2345, psk=LDHOQlwepUz3IaJH, version=4, tfo=true, reuse=true, ecn=true
-🇺🇸BUF (Colocrossing) = snell, 23.94.29.30, 49889, psk=xyp9Dd6DDb927og7, version=4, tfo=false, reuse=true, ecn=true
-🇯🇵 JP-Lam = snell, 103.165.85.110, 8443, psk=AijHCeos15IvqDZTb1cJMX5GcgZzIVE, version=4
-NG🇳🇬 = snell, 160.119.196.106, 9845, psk=1DwMWDJuykp5oIRa, version=4, obfs=http, obfs-host=www.bing.com
-新加坡🇸🇬 = snell, 203.174.83.112, 2345, psk=bEUiRhTDxnfpRjTo, version=4, tfo=true, reuse=true, ecn=true
+🇭🇰HK SNELL = snell, 162.245.220.109, 56420, psk=lEAlDuhKnnlv74fT, version=4, tfo=false, reuse=true, ecn=true
+🇭🇰 CLAW-HK-TEMP = snell, 47.243.11.1, 2345, psk=cFPAbyJ0uN3bBjE5, version=4, tfo=true, obfs=http, obfs-host=icloud.com, reuse=true, ecn=true

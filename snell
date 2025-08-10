@@ -10,3 +10,4 @@
 🇸🇬 AWS = snell, 54.254.3.27, 2345, psk=LDHOQlwepUz3IaJH, version=4, tfo=true, reuse=true, ecn=true
 🇭🇰HK SNELL = snell, 162.245.220.109, 56420, psk=lEAlDuhKnnlv74fT, version=4, tfo=false, reuse=true, ecn=true
 🇭🇰 CLAW-HK-TEMP = snell, 47.243.11.1, 2345, psk=cFPAbyJ0uN3bBjE5, version=4, tfo=true, obfs=http, obfs-host=icloud.com, reuse=true, ecn=true
+🇺🇸 us = snell, 154.26.186.3, 443, psk=oKObPL9BuHcU2c5c, version=4, reuse=true, block-quic=on, shadow-tls-password=MVlWnwyr9vEOK8hL, shadow-tls-sni=p11.douyinpic.com, shadow-tls-version=3

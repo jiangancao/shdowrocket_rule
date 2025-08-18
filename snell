@@ -11,3 +11,4 @@
 🇭🇰HK SNELL = snell, 162.245.220.109, 56420, psk=lEAlDuhKnnlv74fT, version=4, tfo=false, reuse=true, ecn=true
 🇭🇰 CLAW-HK-TEMP = snell, 47.243.11.1, 2345, psk=cFPAbyJ0uN3bBjE5, version=4, tfo=true, obfs=http, obfs-host=icloud.com, reuse=true, ecn=true
 🇸🇬Snell-sg2 = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
+🇯🇵MisakaJP = snell, 103.170.233.165, 32123, psk=XfltXUV1MS2Fx6yt, version=5, tfo=true, reuse=true, ecn=true

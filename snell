@@ -1,16 +1,5 @@
-🇳🇱AMS (Oracle Cloud) = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
-🇰🇷SEL (Oracle Cloud) = snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
-🇳🇱 AMS (Oracle Cloud)|Gananel=snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
-🇦🇪DXB (Oracle Cloud)|Gananel=snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
-🇰🇷SEL (Oracle Cloud)|Gananel=snell, oracle.sel.as917.net, 36282, psk=m3pxvxgkXPErKaUm, version=4
-🇦🇪DXB (Oracle Cloud) = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
+
 🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
-ʟᴀx-ᴅᴍɪᴛ=snell,154.17.238.12,32143,version=4,psk=deyFTuaOwftpAeYi,tfo=true,udp-relay=true,reuse=true
 🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇸🇬 AWS = snell, 54.254.3.27, 2345, psk=LDHOQlwepUz3IaJH, version=4, tfo=true, reuse=true, ecn=true
-🇭🇰HK SNELL = snell, 162.245.220.109, 56420, psk=lEAlDuhKnnlv74fT, version=4, tfo=false, reuse=true, ecn=true
-🇭🇰 CLAW-HK-TEMP = snell, 47.243.11.1, 2345, psk=cFPAbyJ0uN3bBjE5, version=4, tfo=true, obfs=http, obfs-host=icloud.com, reuse=true, ecn=true
-🇸🇬Snell-sg2 = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇯🇵MisakaJP = snell, 103.170.233.165, 32123, psk=XfltXUV1MS2Fx6yt, version=5, tfo=true, reuse=true, ecn=true
-🇭🇰ALI = snell, , 80, psk=UftgUqr7C9cd4tWQ, version=4, reuse=true, tfo=true, obfs=http, obfs-host=tjdownload.pan.wo.cn
-80 ok = Vmess,64.181.236.47,80,auto,"e96e360e-90fa-4aa0-ab08-db04dd443f18",transport=http,alterId=0,path=/,host=tjdownload.pan.wo.cn,udp=true,block-quic=false,over-tls=false
+🇸🇬𝘚𝘨.𝑀𝑖𝑠𝑎𝑘𝑒 = snell, 194.156.162.186, 2345, psk=vQBfdUYhTzK2DhFG, version=5, reuse=true, tfo=true, block-quic=off, ecn=true
+🇺🇸us = snell, 23.133.52.161, 443, psk=oKObPL9BuHcU2c5c, version=4, shadow-tls-password=MVlWnwyr9vEOK8hL, shadow-tls-sni=p11.douyinpic.com, shadow-tls-version=3

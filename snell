@@ -1,6 +1,4 @@
 
 🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
 🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
-LAX PRO =  snell, 154.26.183.66, 48966, psk = j1jAyqpeGaMQ7XV5c5YmLtWIcPptmcgJ, version = 5, reuse = true, tfo = true
-🇭🇰  GoMami = snell, 23.141.4.63, 10086, psk="H9El3Hdu30TqhnbeOiWC6ldvc6jDjrx", version=5
-🇭🇰  GoMami = ss,23.141.4.63,23333,encrypt-method=2022-blake3-aes-128-gcm,password="VIkr/g6Q5oAmntLNQU4yeg==",udp-relay=true
+🇺🇸LAX PRO =  snell, 154.26.183.66, 48966, psk = j1jAyqpeGaMQ7XV5c5YmLtWIcPptmcgJ, version = 5, reuse = true, tfo = true

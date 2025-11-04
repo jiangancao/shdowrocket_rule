@@ -1,10 +1,6 @@
 
 🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
 🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇸🇬𝘚𝘨.𝑀𝑖𝑠𝑎𝑘𝑒 = snell, 194.156.162.186, 2345, psk=vQBfdUYhTzK2DhFG, version=5, reuse=true, tfo=true, block-quic=off, ecn=true
-🇺🇸us = snell, 23.133.52.161, 443, psk=oKObPL9BuHcU2c5c, version=4, shadow-tls-password=MVlWnwyr9vEOK8hL, shadow-tls-sni=p11.douyinpic.com, shadow-tls-version=3
-🇸🇬SG = snell, 82.23.177.158, 15888, psk=Ikk9BMLQgGXgsVz4, version=4, reuse=true, tfo=true, ecn=true
+LAX PRO =  snell, 154.26.183.66, 48966, psk = j1jAyqpeGaMQ7XV5c5YmLtWIcPptmcgJ, version = 5, reuse = true, tfo = true
 🇭🇰  GoMami = snell, 23.141.4.63, 10086, psk="H9El3Hdu30TqhnbeOiWC6ldvc6jDjrx", version=5
 🇭🇰  GoMami = ss,23.141.4.63,23333,encrypt-method=2022-blake3-aes-128-gcm,password="VIkr/g6Q5oAmntLNQU4yeg==",udp-relay=true
-🇯🇵 JP = snell, 154.36.183.197, 2345, psk=njidwp5y5gbd7lbd, version=4, obfs=http, obfs-host=tjtn.pan.wo.cn
-🇸🇬AWS = snell, 18.139.2.129, 2345, psk=6L4nGby8vj2Va1qF, version=5

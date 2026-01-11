@@ -1,4 +1,2 @@
-
-🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇸🇬Snell = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇺🇸LAX PRO =  snell, 154.26.183.66, 48966, psk = j1jAyqpeGaMQ7XV5c5YmLtWIcPptmcgJ, version = 5, reuse = true, tfo = true
+🇭🇰Zouter = snell, 145.79.143.219, 5210, psk=VC63kGsrwaffS4q9, version=5, reuse=true, tfo=true, ecn=true
+🇭🇰Hepta QH-DMIT = snell, 2409:8c54:810:702::2a7, 20101, psk=zsb135792468, version=5, reuse=true, tfo=true
